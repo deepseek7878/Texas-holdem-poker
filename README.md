@@ -1,4 +1,4 @@
-# Texas-holdem-poker  德州扑克源码/德州扑克游戏源码
+# Texas-holdem-poker  德州扑克源码/德州扑克游戏源码；德州源碼，德撲源碼，德州遊戲源碼，德州俱樂部源碼，德州大廳；德州源码，德扑源码，德州游戏源码，德州俱乐部源码，德州大厅
 Texas Hold'em source code, Texas Hold'em game source code ，德州源码，德州扑克源码，德州俱乐部，德州现金场源码，德州金币大厅里面有多个游戏，德州+短牌+sng、有多个德州锦标赛，俱乐部，朋友局。, 德州扑克源码/德州扑克游戏多语言版/Unity+c++版APP双端源码/热更新/中英繁韩国马来多语言+运营版本,TG：@fox_lovemyself
 
 ![13](https://github.com/user-attachments/assets/bc00bf28-558f-4742-8426-3e22fa25efeb)
