@@ -1,3 +1,4 @@
+A desktop poker game featuring offline gameplay and AI opponents.
 # Texas Hold'em Desktop
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop)
@@ -175,6 +176,11 @@ text
 ✅ 6套主题皮肤  
 ✅ 全平台原生支持  
 
+## 📦 Download
+
+Download the latest version:
+
+👉 📱 Telegram：@fox_lovemyself
 
 ## 📱 💰 获取源码 | Contact
 
@@ -183,7 +189,11 @@ text
 
 
 📧 Email：lihongbo9414@gmail.com
+## 🎮 Game Preview
 
+- Desktop UI screenshot  
+- Poker table interface  
+- Gameplay example  
 ## 产品截图
 ![13](https://github.com/user-attachments/assets/bc00bf28-558f-4742-8426-3e22fa25efeb)
 ![12](https://github.com/user-attachments/assets/1cc31f9c-705d-465d-888b-ce0f2c2f13d4)
@@ -193,7 +203,18 @@ text
 ![04](https://github.com/user-attachments/assets/0b0cebc6-4920-4263-9384-36db22c00dc3)
 ![01](https://github.com/user-attachments/assets/8235a957-7408-4b5f-a5dc-6c7cdb6c9380)
 **[立即下载体验](https://github.com/deepseek7878/texas-holdem-desktop/releases/latest)**
+## ⭐ Key Features
 
+- Offline playable poker game  
+- AI opponents with different styles  
+- Smooth desktop UI experience  
+- Cross-platform support (Windows / macOS)
+## 🧩 Architecture
+
+- UI Layer (Desktop client)  
+- Game Engine  
+- State management  
+- Event handling system  
 ## ❓ 常见问题 / FAQ / 常見問題
 
 **Q: 支持联网对战吗？**  
