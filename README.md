@@ -1,6 +1,6 @@
 A desktop poker game featuring offline gameplay and AI opponents.
 
-**专业德州扑克桌面游戏 / Professional Texas Hold'em desktop game /德州扑克游戏源码|德州扑克软件源码， 專業德州撲克桌面遊戲|线上稳定运营多年
+**专业德州扑游戏 / Professional Texas Hold'em desktop game /德州扑克游戏源码|德州俱乐部源码， 專業德州撲克桌面遊戲|线上稳定运营多年
 
 **真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码**
 **简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
