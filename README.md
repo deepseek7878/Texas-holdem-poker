@@ -1,4 +1,7 @@
 A desktop poker game featuring offline gameplay and AI opponents.
+**专业德州扑克桌面游戏 / Professional Texas Hold'em desktop game /德州扑克游戏源码|德州扑克软件源码， 專業德州撲克桌面遊戲|线上稳定运营多年
+**真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码**
+**简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
 # Texas Hold'em Desktop
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop)
@@ -6,7 +9,7 @@ A desktop poker game featuring offline gameplay and AI opponents.
 [![GitHub issues](https://img.shields.io/github/issues/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop/issues)
 [![License](https://img.shields.io/github/license/deepseek7878/texas-holdem-desktop?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-desktop/blob/main/LICENSE)
 
-**专业德州扑克桌面游戏 / Professional Texas Hold'em desktop game /德州扑克游戏源码|德州扑克软件源码， 專業德州撲克桌面遊戲|线上稳定运营多年 | 俱乐部+联盟+私人局 | 10+种玩法 | 刚停服，全套源码可售 **  
+**俱乐部+联盟+私人局 | 10+种玩法 | 刚停服，全套源码可售 **  
 单人练习、锦标赛、手牌历史、数据分析、主题自定义、离线娱乐 / 單人練習、錦標賽、手牌歷史、數據分析、主題自訂、離線娛樂.
 
 ## 🎮 一键下载运行 / Download & Play / 一鍵下載運行
